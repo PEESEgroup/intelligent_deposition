@@ -40,18 +40,6 @@
   url: https://doi.org/10.1016/j.eng.2020.05.002
   tags:
   - cvd_fundamentals
-- id: 5
-  citation: 'Reeja‐Jayan, B. et al. Polymeric Interfaces: A Route Towards Sustainability Through Engineered Polymeric Interfaces
-    (Adv. Mater. Interfaces 4/2014). Adv. Mater. Interfaces 1, admi.201470025 (2014).'
-  year: 2014
-  authors: Reeja‐Jayan, B. et al
-  title: 'Polymeric Interfaces: A Route Towards Sustainability Through Engineered Polymeric Interfaces (Adv. Mater. Interfaces
-    4/2014)'
-  venue: Advanced Materials Interfaces
-  doi: 10.1002/admi.201470025
-  url: https://doi.org/10.1002/admi.201470025
-  tags:
-  - cvd_fundamentals
 - id: 6
   citation: 'Coclite, A. M. et al. 25th Anniversary Article: CVD Polymers: A New Paradigm for Surface Modifi cation and Device
     Fabrication. Adv. Mater. 25, 5392–5423 (2013).'
@@ -61,17 +49,6 @@
   venue: Advanced Materials
   doi: 10.1002/adma.201301878
   url: https://doi.org/10.1002/adma.201301878
-  tags:
-  - cvd_fundamentals
-- id: 7
-  citation: Reeja‐Jayan, B. et al. A Route Towards Sustainability Through Engineered Polymeric Interfaces. Adv. Mater. Interfaces
-    1, 1400117 (2014).
-  year: 2014
-  authors: Reeja‐Jayan, B. et al
-  title: A Route Towards Sustainability Through Engineered Polymeric Interfaces
-  venue: Advanced Materials Interfaces
-  doi: 10.1002/admi.201400117
-  url: https://doi.org/10.1002/admi.201400117
   tags:
   - cvd_fundamentals
 - id: 8
@@ -129,28 +106,6 @@
   url: https://doi.org/10.1021/acs.langmuir.2c00979
   tags:
   - morphology_interfacial
-- id: 13
-  citation: Singh, R., Colombo, L., Schuegraf, K., Doering, R. & Diebold, A. Semiconductor Manufacturing. in Guide to State‐of‐the‐Art
-    Electron Devices (ed. Burghartz, J. N.) 121–132 (Wiley, 2013). doi:10.1002/9781118517543.ch10.
-  year: 2013
-  authors: Singh, R., Colombo, L., Schuegraf, K., Doering, R. & Diebold, A
-  title: Semiconductor Manufacturing
-  venue: in Guide to State‐of‐the‐Art Electron Devices (ed. Burghartz, J. N.) 121–132 (Wiley, 2013). doi:10.1002/9781118517543.ch10.
-  doi: 10.1002/9781118517543.ch10
-  url: null
-  tags:
-  - in_situ_monitoring
-- id: 14
-  citation: Jia, K. et al. Toward the commercialization of chemical vapor deposition graphene films. Appl. Phys. Rev. 8, 041306
-    (2021).
-  year: 2021
-  authors: Jia, K. et al
-  title: Toward the commercialization of chemical vapor deposition graphene films
-  venue: Applied Physics Reviews
-  doi: 10.1063/5.0056413
-  url: https://doi.org/10.1063/5.0056413
-  tags:
-  - in_situ_monitoring
 - id: 15
   citation: Zhu, X., Wang, H., Wang, K. & Xie, L. Progress on the in situ imaging of growth dynamics of two-dimensional materials.
     Nanoscale 15, 11746–11758 (2023).
@@ -336,17 +291,6 @@
   url: https://doi.org/10.1038/s41467-024-47087-w
   tags:
   - control_mpc_r2r
-- id: 31
-  citation: Cao, Y., Yu, H., Abbott, N. L. & Zavala, V. M. Machine Learning Algorithms for Liquid Crystal-Based Sensors. ACS
-    Sens. 3, 2237–2245 (2018).
-  year: 2018
-  authors: Cao, Y., Yu, H., Abbott, N. L. & Zavala, V. M
-  title: Machine Learning Algorithms for Liquid Crystal-Based Sensors
-  venue: ACS Sensors
-  doi: 10.1021/acssensors.8b00100
-  url: https://doi.org/10.1021/acssensors.8b00100
-  tags:
-  - in_situ_monitoring
 - id: 32
   citation: Wyatt, Q. K. et al. Oxidative Molecular Layer Deposition of Amine-Containing Conjugated Polymer Thin Films. ACS
     Appl. Polym. Mater. 4, 6156–6168 (2022).
@@ -468,17 +412,6 @@
   venue: Advanced Materials
   doi: 10.1002/adma.201201975
   url: https://doi.org/10.1002/adma.201201975
-  tags:
-  - morphology_patterning
-- id: 43
-  citation: Bengasi, G. et al. Conductive Fused Porphyrin Tapes on Sensitive Substrates by a Chemical Vapor Deposition Approach.
-    Angew. Chem. 131, 2125–2130 (2019).
-  year: 2019
-  authors: Bengasi, G. et al
-  title: Conductive Fused Porphyrin Tapes on Sensitive Substrates by a Chemical Vapor Deposition Approach
-  venue: Angewandte Chemie
-  doi: 10.1002/ange.201814034
-  url: https://doi.org/10.1002/ange.201814034
   tags:
   - morphology_patterning
 - id: 44
@@ -631,7 +564,7 @@
   year: 2012
   authors: Frank-Finney, R. J., Haller, P. D. & Gupta, M
   title: Ultrathin Free-Standing Polymer Films Deposited onto Patterned Ionic Liquids and Silicone Oil
-  venue: Macromolecules 45, 165–170 (2012).
+  venue: Macromolecules
   doi: 10.1021/ma202268j
   url: https://doi.org/10.1021/ma202268j
   tags:
@@ -827,34 +760,9 @@
   year: 2013
   authors: Laird, E. D., Bose, R. K., Wang, W., Lau, K. K. S. & Li, C. Y
   title: Carbon Nanotube‐Directed Polytetrafluoroethylene Crystal Growth via Initiated Chemical Vapor Deposition
-  venue: Macromol. Rapid Commun. 34, 251–256 (2013).
+  venue: Macromol. Rapid Commun
   doi: 10.1002/marc.201200678
   url: https://doi.org/10.1002/marc.201200678
-  tags:
-  - morphology_patterning
-- id: 75
-  citation: Coclite, A. M., Shi, Y. & Gleason, K. K. Controlling the Degree of Crystallinity and Preferred Crystallographic
-    Orientation in Poly‐Perfluorodecylacrylate Thin Films by Initiated Chemical Vapor Deposition. Adv. Funct. Mater. 22, 2167–2176
-    (2012).
-  year: 2012
-  authors: Coclite, A. M., Shi, Y. & Gleason, K. K
-  title: Controlling the Degree of Crystallinity and Preferred Crystallographic Orientation in Poly‐Perfluorodecylacrylate
-    Thin Films by Initiated Chemical Vapor Deposition
-  venue: Advanced Functional Materials
-  doi: 10.1002/adfm.201103035
-  url: https://doi.org/10.1002/adfm.201103035
-  tags:
-  - control_mpc_r2r
-  - morphology_patterning
-- id: 76
-  citation: Perrotta, A., Christian, P., Jones, A. O. F., Muralter, F. & Coclite, A. M. Growth Regimes of Poly(perfluorodecyl
-    acrylate) Thin Films by Initiated Chemical Vapor Deposition. Macromolecules 51, 5694–5703 (2018).
-  year: 2018
-  authors: Perrotta, A., Christian, P., Jones, A. O. F., Muralter, F. & Coclite, A. M
-  title: Growth Regimes of Poly(perfluorodecyl acrylate) Thin Films by Initiated Chemical Vapor Deposition
-  venue: Macromolecules
-  doi: 10.1021/acs.macromol.8b00904
-  url: https://doi.org/10.1021/acs.macromol.8b00904
   tags:
   - morphology_patterning
 - id: 77
@@ -869,29 +777,6 @@
   url: https://doi.org/10.1116/6.0001718
   tags:
   - morphology_patterning
-- id: 78
-  citation: Franklin, T. & Yang, R. Controlling Morphology of Polymer Particles Synthesized from Condensed Monomer Droplets.
-    Chem. Mater. 35, 4955–4964 (2023).
-  year: 2023
-  authors: Franklin, T. & Yang, R
-  title: Controlling Morphology of Polymer Particles Synthesized from Condensed Monomer Droplets
-  venue: Chemistry of Materials
-  doi: 10.1021/acs.chemmater.3c00285
-  url: https://doi.org/10.1021/acs.chemmater.3c00285
-  tags:
-  - control_mpc_r2r
-  - morphology_patterning
-- id: 79
-  citation: National Science and Technology Council. Materials Genome Initiative for Global Competitiveness. https://www.mgi.gov/sites/mgi/files/materials_genome_initiative-final.pdf
-    (2011).
-  year: 2011
-  authors: National Science and Technology Council
-  title: Materials Genome Initiative for Global Competitiveness
-  venue: https://www.mgi.gov/sites/mgi/files/materials_genome_initiative-final.pdf (2011).
-  doi: null
-  url: https://www.mgi.gov/sites/mgi/files/materials_genome_initiative-final.pdf
-  tags:
-  - cvd_fundamentals
 - id: 80
   citation: Zhu, J. et al. Optical wafer defect inspection at the 10 nm technology node and beyond. Int. J. Extreme Manuf.
     4, 032001 (2022).
@@ -926,17 +811,6 @@
   url: https://doi.org/10.1055/s-0043-1761311
   tags:
   - morphology_interfacial
-- id: 83
-  citation: Weiss, R. G. Thermotropic liquid crystals as reaction media for mechanistic investigations1. Tetrahedron 44, 3413–3475
-    (1988).
-  year: 1988
-  authors: Weiss, R. G
-  title: Thermotropic liquid crystals as reaction media for mechanistic investigations1
-  venue: Tetrahedron
-  doi: 10.1016/s0040-4020(01)85977-9
-  url: https://doi.org/10.1016/s0040-4020(01)85977-9
-  tags:
-  - morphology_molecular_templating
 - id: 84
   citation: Miller, D. S., Carlton, R. J., Mushenheim, P. C. & Abbott, N. L. Introduction to Optical Methods for Characterizing
     Liquid Crystals at Interfaces. Langmuir 29, 3154–3169 (2013).
@@ -946,29 +820,6 @@
   venue: Langmuir
   doi: 10.1021/la304679f
   url: https://doi.org/10.1021/la304679f
-  tags:
-  - morphology_molecular_templating
-- id: 85
-  citation: 'Bellare, J. R., Davis, H. T., Miller, W. G. & Scriven, L. E. Polarized optical microscopy of anisotropic media:
-    Imaging theory and simulation. J. Colloid Interface Sci. 136, 305–326 (1990).'
-  year: 1990
-  authors: Bellare, J. R., Davis, H. T., Miller, W. G. & Scriven, L. E
-  title: 'Polarized optical microscopy of anisotropic media: Imaging theory and simulation'
-  venue: Journal of Colloid and Interface Science
-  doi: 10.1016/0021-9797(90)90379-3
-  url: https://doi.org/10.1016/0021-9797(90)90379-3
-  tags:
-  - in_situ_monitoring
-  - morphology_molecular_templating
-- id: 86
-  citation: Feng, L., Wang, K.-Y., Yan, T.-H. & Zhou, H.-C. Porous Crystalline Spherulite Superstructures. Chem 6, 460–471
-    (2020).
-  year: 2020
-  authors: Feng, L., Wang, K.-Y., Yan, T.-H. & Zhou, H.-C
-  title: Porous Crystalline Spherulite Superstructures
-  venue: Chem
-  doi: 10.1016/j.chempr.2019.12.001
-  url: https://doi.org/10.1016/j.chempr.2019.12.001
   tags:
   - morphology_molecular_templating
 - id: 87
@@ -992,48 +843,6 @@
   venue: Advanced Functional Materials
   doi: 10.1002/adfm.201602262
   url: https://doi.org/10.1002/adfm.201602262
-  tags:
-  - morphology_molecular_templating
-- id: 89
-  citation: Molnár, J. et al. Structural investigation of semicrystalline polymers. Polym. Test. 95, 107098 (2021).
-  year: 2021
-  authors: Molnár, J. et al
-  title: Structural investigation of semicrystalline polymers
-  venue: Polymer Testing
-  doi: 10.1016/j.polymertesting.2021.107098
-  url: https://doi.org/10.1016/j.polymertesting.2021.107098
-  tags:
-  - morphology_molecular_templating
-- id: 90
-  citation: Yu, C., Xie, Q., Bao, Y., Shan, G. & Pan, P. Crystalline and Spherulitic Morphology of Polymers Crystallized in
-    Confined Systems. Crystals 7, 147 (2017).
-  year: 2017
-  authors: Yu, C., Xie, Q., Bao, Y., Shan, G. & Pan, P
-  title: Crystalline and Spherulitic Morphology of Polymers Crystallized in Confined Systems
-  venue: Crystals
-  doi: 10.3390/cryst7050147
-  url: https://doi.org/10.3390/cryst7050147
-  tags:
-  - morphology_molecular_templating
-- id: 91
-  citation: Zhang, H., Zhang, T. & Zhang, X. Perspective and Prospects for Ordered Functional Materials. Adv. Sci. 10, 2300193
-    (2023).
-  year: 2023
-  authors: Zhang, H., Zhang, T. & Zhang, X
-  title: Perspective and Prospects for Ordered Functional Materials
-  venue: Advanced Science
-  doi: 10.1002/advs.202300193
-  url: https://doi.org/10.1002/advs.202300193
-  tags:
-  - morphology_molecular_templating
-- id: 92
-  citation: Davis, M. E. Ordered porous materials for emerging applications. Nature 417, 813–821 (2002).
-  year: 2002
-  authors: Davis, M. E
-  title: Ordered porous materials for emerging applications
-  venue: Nature
-  doi: 10.1038/nature00785
-  url: https://doi.org/10.1038/nature00785
   tags:
   - morphology_molecular_templating
 - id: 93
@@ -1092,28 +901,6 @@
   url: https://doi.org/10.1021/acs.langmuir.2c02622
   tags:
   - in_situ_monitoring
-- id: 98
-  citation: Smith, A. D., Abbott, N. & Zavala, V. M. Convolutional Network Analysis of Optical Micrographs for Liquid Crystal
-    Sensors. J. Phys. Chem. C 124, 15152–15161 (2020).
-  year: 2020
-  authors: Smith, A. D., Abbott, N. & Zavala, V. M
-  title: Convolutional Network Analysis of Optical Micrographs for Liquid Crystal Sensors
-  venue: The Journal of Physical Chemistry C
-  doi: 10.1021/acs.jpcc.0c01942
-  url: https://doi.org/10.1021/acs.jpcc.0c01942
-  tags:
-  - in_situ_monitoring
-- id: 99
-  citation: Chiang, L. H., Braun, B., Wang, Z. & Castillo, I. Towards artificial intelligence at scale in the chemical industry.
-    AIChE J. 68, e17644 (2022).
-  year: 2022
-  authors: Chiang, L. H., Braun, B., Wang, Z. & Castillo, I
-  title: Towards artificial intelligence at scale in the chemical industry
-  venue: AIChE J
-  doi: 10.1002/aic.17644
-  url: https://doi.org/10.1002/aic.17644
-  tags:
-  - cvd_fundamentals
 - id: 100
   citation: Song, Q. et al. Surface Nanostructure Fabrication by Initiated Chemical Vapor Deposition and Its Combined Technologies.
     ACS Macro Lett. 14, 214–224 (2025).
@@ -1228,17 +1015,6 @@
   url: https://doi.org/10.1021/acs.macromol.4c01183
   tags:
   - cvd_fundamentals
-- id: 110
-  citation: Dou, B. et al. Machine Learning Methods for Small Data Challenges in Molecular Science. Chem. Rev. 123, 8736–8780
-    (2023).
-  year: 2023
-  authors: Dou, B. et al
-  title: Machine Learning Methods for Small Data Challenges in Molecular Science
-  venue: Chemical Reviews
-  doi: 10.1021/acs.chemrev.3c00189
-  url: https://doi.org/10.1021/acs.chemrev.3c00189
-  tags:
-  - optimization_active_learning
 - id: 111
   citation: Xu, B. et al. Boosting computational thermodynamic analysis of the CVD of SiC coating via machine learning. J.
     Cryst. Growth 637–638, 127727 (2024).
@@ -1410,17 +1186,6 @@
   url: https://doi.org/10.1021/acs.jpcc.3c07168
   tags:
   - digital_twins
-- id: 126
-  citation: Friederich, P., Häse, F., Proppe, J. & Aspuru-Guzik, A. Machine-learned potentials for next-generation matter
-    simulations. Nat. Mater. 20, 750–761 (2021).
-  year: 2021
-  authors: Friederich, P., Häse, F., Proppe, J. & Aspuru-Guzik, A
-  title: Machine-learned potentials for next-generation matter simulations
-  venue: Nature Materials
-  doi: 10.1038/s41563-020-0777-6
-  url: https://doi.org/10.1038/s41563-020-0777-6
-  tags:
-  - digital_twins
 - id: 127
   citation: Petsagkourakis, P. et al. Chance constrained policy optimization for process control and optimization. J. Process
     Control 111, 35–45 (2022).
@@ -1457,18 +1222,6 @@
   tags:
   - control_mpc_r2r
   - optimization_active_learning
-- id: 130
-  citation: McGreivy, N. & Hakim, A. Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related
-    partial differential equations. Nat. Mach. Intell. 6, 1256–1269 (2024).
-  year: 2024
-  authors: McGreivy, N. & Hakim, A
-  title: Weak baselines and reporting biases lead to overoptimism in machine learning for fluid-related partial differential
-    equations
-  venue: Nature Machine Intelligence
-  doi: 10.1038/s42256-024-00897-5
-  url: https://doi.org/10.1038/s42256-024-00897-5
-  tags:
-  - cvd_fundamentals
 - id: 131
   citation: Sansana, J., Rendall, R., Castillo, I., Chiang, L. & Reis, M. S. Hybrid modeling for improved extrapolation and
     transfer learning in the chemical processing industry. Chem. Eng. Sci. 300, 120568 (2024).
@@ -1511,28 +1264,6 @@
   venue: Machine Learning for Computational Science and Engineering
   doi: 10.1007/s44379-025-00016-0
   url: https://doi.org/10.1007/s44379-025-00016-0
-  tags:
-  - digital_twins
-- id: 135
-  citation: Tang, Y., Rahmani Dehaghani, M. & Wang, G. G. Review of transfer learning in modeling additive manufacturing processes.
-    Addit. Manuf. 61, 103357 (2023).
-  year: 2023
-  authors: Tang, Y., Rahmani Dehaghani, M. & Wang, G. G
-  title: Review of transfer learning in modeling additive manufacturing processes
-  venue: Additive Manufacturing
-  doi: 10.1016/j.addma.2022.103357
-  url: https://doi.org/10.1016/j.addma.2022.103357
-  tags:
-  - digital_twins
-- id: 136
-  citation: 'Gentner, N. & Susto, G. A. Heterogeneous domain adaptation and equipment matching: DANN-based Alignment with
-    Cyclic Supervision (DBACS). Comput. Ind. Eng. 187, 109821 (2024).'
-  year: 2024
-  authors: Gentner, N. & Susto, G. A
-  title: 'Heterogeneous domain adaptation and equipment matching: DANN-based Alignment with Cyclic Supervision (DBACS)'
-  venue: Computers &amp; Industrial Engineering
-  doi: 10.1016/j.cie.2023.109821
-  url: https://doi.org/10.1016/j.cie.2023.109821
   tags:
   - digital_twins
 - id: 137
@@ -1727,27 +1458,6 @@
   tags:
   - automation_orchestration
   - optimization_active_learning
-- id: 154
-  citation: Pyzer-Knapp, E. O. et al. Foundation models for materials discovery – current state and future directions. Npj
-    Comput. Mater. 11, 61 (2025).
-  year: 2025
-  authors: Pyzer-Knapp, E. O. et al
-  title: Foundation models for materials discovery – current state and future directions
-  venue: npj Computational Materials
-  doi: 10.1038/s41524-025-01538-0
-  url: https://doi.org/10.1038/s41524-025-01538-0
-  tags:
-  - cvd_fundamentals
-- id: 155
-  citation: Choi, J., Nam, G., Choi, J. & Jung, Y. A Perspective on Foundation Models in Chemistry. JACS Au 5, 1499–1518 (2025).
-  year: 2025
-  authors: Choi, J., Nam, G., Choi, J. & Jung, Y
-  title: A Perspective on Foundation Models in Chemistry
-  venue: JACS Au
-  doi: 10.1021/jacsau.4c01160
-  url: https://doi.org/10.1021/jacsau.4c01160
-  tags:
-  - cvd_fundamentals
 - id: 156
   citation: Yang, Z. et al. De novo design of polymer electrolytes using GPT-based and diffusion-based generative models.
     Npj Comput. Mater. 10, 296 (2024).
@@ -1816,19 +1526,6 @@
   tags:
   - control_mpc_r2r
   - digital_twins
-- id: 162
-  citation: Wang, Q. et al. Recent progress on kinetic control of chemical vapor deposition growth of high-quality wafer-scale
-    transition metal dichalcogenides. Nanoscale Adv. 3, 3430–3440 (2021).
-  year: 2021
-  authors: Wang, Q. et al
-  title: Recent progress on kinetic control of chemical vapor deposition growth of high-quality wafer-scale transition metal
-    dichalcogenides
-  venue: Nanoscale Advances
-  doi: 10.1039/d1na00171j
-  url: https://doi.org/10.1039/d1na00171j
-  tags:
-  - control_mpc_r2r
-  - digital_twins
 - id: 163
   citation: Yun, S., Ding, Y., Zhang, Y. & Christofides, P. D. Integration of feedback control and run-to-run control for
     plasma enhanced atomic layer deposition of hafnium oxide thin films. Comput. Chem. Eng. 148, 107267 (2021).
@@ -1890,18 +1587,6 @@
   tags:
   - control_mpc_r2r
   - digital_twins
-- id: 168
-  citation: 'Yang, S.-B., Li, Z. & Wu, W. Data-Driven Process Optimization Considering Surrogate Model Prediction Uncertainty:
-    A Mixture Density Network-Based Approach. Ind. Eng. Chem. Res. 60, 2206–2222 (2021).'
-  year: 2021
-  authors: Yang, S.-B., Li, Z. & Wu, W
-  title: 'Data-Driven Process Optimization Considering Surrogate Model Prediction Uncertainty: A Mixture Density Network-Based
-    Approach'
-  venue: Industrial &amp; Engineering Chemistry Research
-  doi: 10.1021/acs.iecr.0c04214
-  url: https://doi.org/10.1021/acs.iecr.0c04214
-  tags:
-  - digital_twins
 - id: 169
   citation: Zhang, J., Li, Y., Cao, K. & Chen, R. Advances in Atomic Layer Deposition. Nanomanufacturing Metrol. 5, 191–208
     (2022).
@@ -1924,17 +1609,6 @@
   url: https://doi.org/10.1016/j.compchemeng.2020.107148
   tags:
   - control_mpc_r2r
-- id: 171
-  citation: Lee, D. & Jeon, H. Effect of precursor Pre-Treatment of tin monosulfide thin film using atomic layer deposition.
-    Appl. Surf. Sci. 704, 163415 (2025).
-  year: 2025
-  authors: Lee, D. & Jeon, H
-  title: Effect of precursor Pre-Treatment of tin monosulfide thin film using atomic layer deposition
-  venue: Applied Surface Science
-  doi: 10.1016/j.apsusc.2025.163415
-  url: https://doi.org/10.1016/j.apsusc.2025.163415
-  tags:
-  - cvd_fundamentals
 - id: 172
   citation: Tao, H. et al. Nanoparticle synthesis assisted by machine learning. Nat. Rev. Mater. 6, 701–716 (2021).
   year: 2021
@@ -2025,29 +1699,6 @@
   url: https://doi.org/10.1016/j.ijpe.2023.109102
   tags:
   - control_mpc_r2r
-- id: 180
-  citation: 'Lin, Y.-H., Liang, H.-H., Lin, S.-T. & Li, Y.-P. Advancing vapor pressure prediction: A machine learning approach
-    with directed message passing neural networks. J. Taiwan Inst. Chem. Eng. 105926 (2024) doi:10.1016/j.jtice.2024.105926.'
-  year: 2024
-  authors: Lin, Y.-H., Liang, H.-H., Lin, S.-T. & Li, Y.-P
-  title: 'Advancing vapor pressure prediction: A machine learning approach with directed message passing neural networks'
-  venue: Journal of the Taiwan Institute of Chemical Engineers
-  doi: 10.1016/j.jtice.2024.105926
-  url: https://doi.org/10.1016/j.jtice.2024.105926
-  tags:
-  - digital_twins
-- id: 181
-  citation: 'Wu, Z. et al. Machine learning for adsorption-related parameters prediction of electronic specialty gases: DFT-based
-    dataset construction and balanced data augmentation. Chin. J. Chem. Eng. S1004954125003726 (2025) doi:10.1016/j.cjche.2025.09.012.'
-  year: 2025
-  authors: Wu, Z. et al
-  title: 'Machine learning for adsorption-related parameters prediction of electronic specialty gases: DFT-based dataset construction
-    and balanced data augmentation'
-  venue: Chinese Journal of Chemical Engineering
-  doi: 10.1016/j.cjche.2025.09.012
-  url: https://doi.org/10.1016/j.cjche.2025.09.012
-  tags:
-  - digital_twins
 - id: 182
   citation: Liu, H. et al. A viable approach to prepare 3C-SiC coatings by thermal MOCVD using commercial grade precursors.
     J. Eur. Ceram. Soc. 42, 4456–4464 (2022).
@@ -2118,17 +1769,6 @@
   url: https://doi.org/10.1021/acs.chemrev.3c00602
   tags:
   - in_situ_monitoring
-- id: 188
-  citation: Oh, E. & Lee, H. Quantum mechanics-based missing value estimation framework for industrial data. Expert Syst.
-    Appl. 236, 121385 (2024).
-  year: 2024
-  authors: Oh, E. & Lee, H
-  title: Quantum mechanics-based missing value estimation framework for industrial data
-  venue: Expert Systems with Applications
-  doi: 10.1016/j.eswa.2023.121385
-  url: https://doi.org/10.1016/j.eswa.2023.121385
-  tags:
-  - virtual_metrology
 - id: 189
   citation: Jang, I. R. et al. Direct monitoring of generated particles in plasma enhanced chemical vapor deposition process
     using temperature compensating quartz crystal microbalance. Sens. Actuators Phys. 383, 116181 (2025).
@@ -2239,30 +1879,6 @@
   url: https://doi.org/10.1021/acs.macromol.1c02515
   tags:
   - in_situ_monitoring
-- id: 198
-  citation: Kalinin, S. V. et al. Machine learning in scanning transmission electron microscopy. Nat. Rev. Methods Primer
-    2, 11 (2022).
-  year: 2022
-  authors: Kalinin, S. V. et al
-  title: Machine learning in scanning transmission electron microscopy
-  venue: Nature Reviews Methods Primers
-  doi: 10.1038/s43586-022-00095-w
-  url: https://doi.org/10.1038/s43586-022-00095-w
-  tags:
-  - in_situ_monitoring
-  - machine_vision_defects
-- id: 199
-  citation: Hoffman, D. P., Slavitt, I. & Fitzpatrick, C. A. The promise and peril of deep learning in microscopy. Nat. Methods
-    18, 131–132 (2021).
-  year: 2021
-  authors: Hoffman, D. P., Slavitt, I. & Fitzpatrick, C. A
-  title: The promise and peril of deep learning in microscopy
-  venue: Nature Methods
-  doi: 10.1038/s41592-020-01035-w
-  url: https://doi.org/10.1038/s41592-020-01035-w
-  tags:
-  - in_situ_monitoring
-  - machine_vision_defects
 - id: 200
   citation: Ziatdinov, M., Ghosh, A., Wong, C. Y. & Kalinin, S. V. AtomAI framework for deep learning analysis of image and
     spectroscopy data in electron and scanning probe microscopy. Nat. Mach. Intell. 4, 1101–1112 (2022).
@@ -2374,17 +1990,6 @@
   url: https://doi.org/10.1016/j.jprocont.2023.01.012
   tags:
   - virtual_metrology
-- id: 210
-  citation: Meitz, L. et al. A Literature Review Framework and Open Research Challenges for Predictive Maintenance in industry
-    4.0. Comput. Ind. Eng. 206, 111193 (2025).
-  year: 2025
-  authors: Meitz, L. et al
-  title: A Literature Review Framework and Open Research Challenges for Predictive Maintenance in industry 4.0
-  venue: Computers &amp; Industrial Engineering
-  doi: 10.1016/j.cie.2025.111193
-  url: https://doi.org/10.1016/j.cie.2025.111193
-  tags:
-  - virtual_metrology
 - id: 211
   citation: Gal, Y., Koumoutsakos, P., Lanusse, F., Louppe, G. & Papadimitriou, C. Bayesian uncertainty quantification for
     machine-learned models in physics. Nat. Rev. Phys. 4, 573–577 (2022).
@@ -2407,39 +2012,6 @@
   url: https://doi.org/10.1016/j.neucom.2024.127441
   tags:
   - optimization_active_learning
-- id: 213
-  citation: Mellah, S. et al. Semiconductor Multivariate Time-Series Anomaly Classification based on Machine Learning Ensemble
-    Techniques*. IFAC-Pap. 55, 476–481 (2022).
-  year: 2022
-  authors: Mellah, S. et al
-  title: Semiconductor Multivariate Time-Series Anomaly Classification based on Machine Learning Ensemble Techniques*
-  venue: IFAC-PapersOnLine
-  doi: 10.1016/j.ifacol.2022.07.174
-  url: https://doi.org/10.1016/j.ifacol.2022.07.174
-  tags:
-  - virtual_metrology
-- id: 214
-  citation: 'Surucu, O., Gadsden, S. A. & Yawney, J. Condition Monitoring using Machine Learning: A Review of Theory, Applications,
-    and Recent Advances. Expert Syst. Appl. 221, 119738 (2023).'
-  year: 2023
-  authors: Surucu, O., Gadsden, S. A. & Yawney, J
-  title: 'Condition Monitoring using Machine Learning: A Review of Theory, Applications, and Recent Advances'
-  venue: Expert Systems with Applications
-  doi: 10.1016/j.eswa.2023.119738
-  url: https://doi.org/10.1016/j.eswa.2023.119738
-  tags:
-  - virtual_metrology
-- id: 215
-  citation: Jamal, D. E., Ananou, B., Graton, G., Ouladsine, M. & Pinaton, J. Remaining Useful Life Prediction of a Semiconductor
-    Manufacturing Equipment Unit*. IFAC-Pap. 56, 11924–11929 (2023).
-  year: 2023
-  authors: Jamal, D. E., Ananou, B., Graton, G., Ouladsine, M. & Pinaton, J
-  title: Remaining Useful Life Prediction of a Semiconductor Manufacturing Equipment Unit*
-  venue: IFAC-PapersOnLine
-  doi: 10.1016/j.ifacol.2023.10.607
-  url: https://doi.org/10.1016/j.ifacol.2023.10.607
-  tags:
-  - virtual_metrology
 - id: 216
   citation: Paul, S., Sharma, R., Tathireddy, P. & Gutierrez-Osuna, R. On-line drift compensation for continuous monitoring
     with arrays of cross-sensitive chemical sensors. Sens. Actuators B Chem. 368, 132080 (2022).
@@ -2485,29 +2057,6 @@
   url: https://doi.org/10.1007/s10845-023-02078-4
   tags:
   - digital_twins
-- id: 220
-  citation: Lee, G. T., Lim, H. G., Wang, T., Zhang, G. & Jeong, M. K. Double bagging trees with weighted sampling for predictive
-    maintenance and management of etching equipment. J. Process Control 135, 103175 (2024).
-  year: 2024
-  authors: Lee, G. T., Lim, H. G., Wang, T., Zhang, G. & Jeong, M. K
-  title: Double bagging trees with weighted sampling for predictive maintenance and management of etching equipment
-  venue: Journal of Process Control
-  doi: 10.1016/j.jprocont.2024.103175
-  url: https://doi.org/10.1016/j.jprocont.2024.103175
-  tags:
-  - virtual_metrology
-- id: 221
-  citation: Wang, M. et al. Potential modulation of Nickel-Cobalt hydroxide nanosheets with conductive Poly(3,4-Ethylenedioxythiophene)
-    skin for aqueous hybrid supercapacitors. Chem. Eng. J. 469, 143801 (2023).
-  year: 2023
-  authors: Wang, M. et al
-  title: Potential modulation of Nickel-Cobalt hydroxide nanosheets with conductive Poly(3,4-Ethylenedioxythiophene) skin
-    for aqueous hybrid supercapacitors
-  venue: Chemical Engineering Journal
-  doi: 10.1016/j.cej.2023.143801
-  url: https://doi.org/10.1016/j.cej.2023.143801
-  tags:
-  - cvd_fundamentals
 - id: 222
   citation: Zhang, Y. et al. A sulfur cathode design strategy for polysulfide restrictions and kinetic enhancements in Li-S
     batteries through oxidative chemical vapor deposition. Nano Energy 115, 108756 (2023).
@@ -2586,29 +2135,6 @@
   url: https://doi.org/10.1016/j.solener.2023.111840
   tags:
   - machine_vision_defects
-- id: 229
-  citation: 'Zhang, C. et al. Transfer learning across different chemical domains: virtual screening of organic materials
-    with deep learning models pretrained on small molecule and chemical reaction data. J. Cheminformatics 16, 89 (2024).'
-  year: 2024
-  authors: Zhang, C. et al
-  title: 'Transfer learning across different chemical domains: virtual screening of organic materials with deep learning models
-    pretrained on small molecule and chemical reaction data'
-  venue: Journal of Cheminformatics
-  doi: 10.1186/s13321-024-00886-1
-  url: https://doi.org/10.1186/s13321-024-00886-1
-  tags:
-  - optimization_active_learning
-- id: 230
-  citation: Chen, C. & Ong, S. P. AtomSets as a hierarchical transfer learning framework for small and large materials datasets.
-    Npj Comput. Mater. 7, 173 (2021).
-  year: 2021
-  authors: Chen, C. & Ong, S. P
-  title: AtomSets as a hierarchical transfer learning framework for small and large materials datasets
-  venue: npj Computational Materials
-  doi: 10.1038/s41524-021-00639-w
-  url: https://doi.org/10.1038/s41524-021-00639-w
-  tags:
-  - optimization_active_learning
 - id: 231
   citation: 'Zhao, Z., Wang, Y., Zhang, W., Ba, Z. & Sun, L. Physics-informed neural networks in heat transfer-dominated multiphysics
     systems: A comprehensive review. Eng. Appl. Artif. Intell. 157, 111098 (2025).'
@@ -2640,17 +2166,6 @@
   venue: Information Sciences
   doi: 10.1016/j.ins.2021.11.023
   url: https://doi.org/10.1016/j.ins.2021.11.023
-  tags:
-  - virtual_metrology
-- id: 234
-  citation: Heid, E., McGill, C. J., Vermeire, F. H. & Green, W. H. Characterizing Uncertainty in Machine Learning for Chemistry.
-    J. Chem. Inf. Model. 63, 4012–4029 (2023).
-  year: 2023
-  authors: Heid, E., McGill, C. J., Vermeire, F. H. & Green, W. H
-  title: Characterizing Uncertainty in Machine Learning for Chemistry
-  venue: Journal of Chemical Information and Modeling
-  doi: 10.1021/acs.jcim.3c00373
-  url: https://doi.org/10.1021/acs.jcim.3c00373
   tags:
   - virtual_metrology
 - id: 235
@@ -2844,45 +2359,13 @@
   url: https://doi.org/10.1007/s10845-025-02569-6
   tags:
   - virtual_metrology
-- id: 252
-  citation: 'Dutta, Dr. L. & Bharali, S. TinyML Meets IoT: A Comprehensive Survey. Internet Things 16, 100461 (2021).'
-  year: 2021
-  authors: Dutta, Dr. L. & Bharali, S
-  title: 'TinyML Meets IoT: A Comprehensive Survey'
-  venue: Internet of Things
-  doi: 10.1016/j.iot.2021.100461
-  url: https://doi.org/10.1016/j.iot.2021.100461
-  tags:
-  - automation_orchestration
-- id: 253
-  citation: 'Ray, P. P. A review on TinyML: State-of-the-art and prospects. J. King Saud Univ. - Comput. Inf. Sci. 34, 1595–1623
-    (2022).'
-  year: 2022
-  authors: Ray, P. P
-  title: 'A review on TinyML: State-of-the-art and prospects'
-  venue: Journal of King Saud University - Computer and Information Sciences
-  doi: 10.1016/j.jksuci.2021.11.019
-  url: https://doi.org/10.1016/j.jksuci.2021.11.019
-  tags:
-  - automation_orchestration
-- id: 254
-  citation: 'Perego, R., Candelieri, A., Archetti, F. & Pau, D. AutoTinyML for microcontrollers: Dealing with black-box deployability.
-    Expert Syst. Appl. 207, 117876 (2022).'
-  year: 2022
-  authors: Perego, R., Candelieri, A., Archetti, F. & Pau, D
-  title: 'AutoTinyML for microcontrollers: Dealing with black-box deployability'
-  venue: Expert Systems with Applications
-  doi: 10.1016/j.eswa.2022.117876
-  url: https://doi.org/10.1016/j.eswa.2022.117876
-  tags:
-  - control_mpc_r2r
 - id: 255
   citation: Xie, Y. & Stearrett, R. Machine Learning based CVD Virtual Metrology in Mass Produced Semiconductor Process. Preprint
     at https://doi.org/10.48550/arXiv.2107.05071 (2021).
   year: 2021
   authors: Xie, Y. & Stearrett, R
   title: Machine Learning based CVD Virtual Metrology in Mass Produced Semiconductor Process
-  venue: Preprint at https://doi.org/10.48550/arXiv.2107.05071 (2021).
+  venue: Preprint
   doi: 10.48550/arXiv.2107.05071
   url: https://doi.org/10.48550/arXiv.2107.05071
   tags:
@@ -2910,18 +2393,6 @@
   url: https://doi.org/10.1016/j.infsof.2025.107733
   tags:
   - automation_orchestration
-- id: 258
-  citation: 'Daoutidis, P. et al. Machine learning in process systems engineering: Challenges and opportunities. Comput. Chem.
-    Eng. 181, 108523 (2024).'
-  year: 2024
-  authors: Daoutidis, P. et al
-  title: 'Machine learning in process systems engineering: Challenges and opportunities'
-  venue: Computers &amp; Chemical Engineering
-  doi: 10.1016/j.compchemeng.2023.108523
-  url: https://doi.org/10.1016/j.compchemeng.2023.108523
-  tags:
-  - optimization_active_learning
-  - safety_governance
 - id: 259
   citation: Harhara, A., Arora, A. & Faruque Hasan, M. M. Process safety consequence modeling using artificial neural networks
     for approximating heat exchanger overpressure severity. Comput. Chem. Eng. 170, 108098 (2023).
@@ -2992,16 +2463,6 @@
   tags:
   - control_mpc_r2r
   - safety_governance
-- id: 265
-  citation: Scheffler, M. et al. FAIR data enabling new horizons for materials research. Nature 604, 635–642 (2022).
-  year: 2022
-  authors: Scheffler, M. et al
-  title: FAIR data enabling new horizons for materials research
-  venue: Nature
-  doi: 10.1038/s41586-022-04501-x
-  url: https://doi.org/10.1038/s41586-022-04501-x
-  tags:
-  - cvd_fundamentals
 - id: 266
   citation: Weissgerber, T. L. et al. Understanding the provenance and quality of methods is essential for responsible reuse
     of FAIR data. Nat. Med. 30, 1220–1221 (2024).
@@ -3036,17 +2497,6 @@
   url: https://doi.org/10.1021/acs.accounts.0c00736
   tags:
   - automation_orchestration
-- id: 269
-  citation: 'Walsh, I. et al. DOME: recommendations for supervised machine learning validation in biology. Nat. Methods 18,
-    1122–1127 (2021).'
-  year: 2021
-  authors: Walsh, I. et al
-  title: 'DOME: recommendations for supervised machine learning validation in biology'
-  venue: Nature Methods
-  doi: 10.1038/s41592-021-01205-4
-  url: https://doi.org/10.1038/s41592-021-01205-4
-  tags:
-  - safety_governance
 - id: 270
   citation: 'Rädel, M., Denker, B., Kamp, B. V. D., Liebers, N. & Prussak, R. Towards the validation of manufacturing simulations
     by means of digital twins: conception, implementation and data acquisition for a composite aircraft moveable manufacturing
@@ -3060,17 +2510,6 @@
   url: https://doi.org/10.1007/s13272-024-00800-3
   tags:
   - digital_twins
-  - safety_governance
-- id: 271
-  citation: Veitch, E. & Andreas Alsos, O. A systematic review of human-AI interaction in autonomous ship systems. Saf. Sci.
-    152, 105778 (2022).
-  year: 2022
-  authors: Veitch, E. & Andreas Alsos, O
-  title: A systematic review of human-AI interaction in autonomous ship systems
-  venue: Safety Science
-  doi: 10.1016/j.ssci.2022.105778
-  url: https://doi.org/10.1016/j.ssci.2022.105778
-  tags:
   - safety_governance
 - id: 272
   citation: Rubagotti, M., Tusseyeva, I., Baltabayeva, S., Summers, D. & Sandygulova, A. Perceived safety in physical human–robot
@@ -3234,17 +2673,6 @@
   venue: Nature Computational Science
   doi: 10.1038/s43588-025-00836-3
   url: https://doi.org/10.1038/s43588-025-00836-3
-  tags:
-  - automation_orchestration
-- id: 287
-  citation: Wu, S. et al. Multimodal Machine Learning for Molecular Identification Based on IR, Raman, and NMR Spectra. J.
-    Phys. Chem. Lett. 16, 11495–11501 (2025).
-  year: 2025
-  authors: Wu, S. et al
-  title: Multimodal Machine Learning for Molecular Identification Based on IR, Raman, and NMR Spectra
-  venue: The Journal of Physical Chemistry Letters
-  doi: 10.1021/acs.jpclett.5c02592
-  url: https://doi.org/10.1021/acs.jpclett.5c02592
   tags:
   - automation_orchestration
 - id: 288
