@@ -1,0 +1,42 @@
+cvd_fundamentals:
+  name: "CVD / oCVD Fundamentals and Reviews"
+  desc: "Reviews, primers, and application overviews of CVD, polymer CVD, and oCVD to establish background and terminology."
+morphology_patterning:
+  name: "Morphology Engineering: Physical/Selective Patterning"
+  desc: "Masks and soft masks, oblique incidence, rotating stages, area-selective deposition, and microstructuring."
+morphology_interfacial:
+  name: "Morphology Engineering: Interfacial Effects and Liquid Substrates"
+  desc: "Droplet condensation, wetting/spreading thermodynamics, and liquid substrates with interfacial tension control to form particles, nanocones, and textured films."
+morphology_dynamic_templates:
+  name: "Morphology Engineering: Dynamic Templates and Porous Structures"
+  desc: "Dynamic templates such as sublimating ice and solid monomer deposition to realize multiscale pores, particles, and films."
+morphology_molecular_templating:
+  name: "Morphology Engineering: Molecular Templating"
+  desc: "Liquid-crystal alignment, ordered media, or MOF nanocrystals to transfer molecular/medium order parameters into fibers, microgels, or chiral structures."
+in_situ_monitoring:
+  name: "In Situ Monitoring and Characterization"
+  desc: "In situ imaging and spectroscopy, residual gas analysis, ellipsometry, and QCM-D as high-rate proxy signals for state estimation and closed-loop control."
+microstructure_ml:
+  name: "Microstructure Characterization and Machine Learning (Descriptors/Reconstruction/Feature Extraction)"
+  desc: "Two-point correlation functions, microstructure reconstruction, and image-driven feature extraction/representation learning to turn pixels into optimizable metrics."
+virtual_metrology:
+  name: "Virtual Metrology and Drift Management"
+  desc: "Map multimodal sensing and equipment logs to quality/morphology proxy states, with explicit drift and uncertainty handling."
+digital_twins:
+  name: "Hybrid Modeling and Digital Twins"
+  desc: "Mechanistic models, PINNs, gray-box models, and maintainable digital twins, with calibration, cross-tool transfer, and lifecycle management."
+optimization_active_learning:
+  name: "Inverse Design and Optimization"
+  desc: "Bayesian optimization, active learning, multi-fidelity, and multi-objective Pareto learning for expensive experimental search."
+control_mpc_r2r:
+  name: "Control and Autonomy"
+  desc: "Multi-rate architectures, MPC, run-to-run control, reinforcement learning, and safety shielding under drift and delayed labels."
+machine_vision_defects:
+  name: "Defect Detection and Quality Control"
+  desc: "Visual detection, segmentation, grading, and online QC; emphasizes dataset drift robustness and actionable defect taxonomy."
+safety_governance:
+  name: "Safety, Governance, and Auditability"
+  desc: "Safety for self-driving experiments, auditability, traceable data threads, human-in-the-loop, and risk governance."
+automation_orchestration:
+  name: "Autonomous Experimentation and Orchestration Infrastructure"
+  desc: "Self-driving lab platforms, task orchestration, executable protocol languages, knowledge graphs, and privacy/federated learning infrastructure."
